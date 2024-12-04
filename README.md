@@ -1,6 +1,6 @@
 ## Hi👋, I'm Chao
 
-A maker from Shenzhen
+A programmer from Shenzhen
 
 - 🔭 I’m currently working in Ninebot
 - 🌱 I’m currently learning LLMs and LightRAG
