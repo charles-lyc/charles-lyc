@@ -2,7 +2,7 @@
 
 A programmer from Shenzhen
 
-- 🔭 I’m currently working in Formlabs
+- 🔭 I work in Formlabs
 - 🌱 I’m currently building flying robot
 - 💬 Ask me about robot embeded system
 - 👔 Introducing: [charles-lyc.github.io](https://charles-lyc.github.io/)
