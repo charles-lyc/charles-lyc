@@ -1,8 +1,8 @@
-## Hi👋, I'm Chao
+## Hi👋, I'm Charles Li
 
 A programmer from Shenzhen
 
-- 🔭 I’m currently working in Formlabs, joining the hackthon :P
+- 🔭 I’m currently working on 3D printer :P
 - 🌱 I like building autonomous navi system, like drone and chasis
 - 💬 Ask me about robot embeded system
 - 👔 Introducing: [charles-lyc.github.io](https://charles-lyc.github.io/)
