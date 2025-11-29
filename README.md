@@ -1,4 +1,4 @@
-## Hi👋, I'm Charles Li
+# Hi👋, I'm Charles Li
 
 A programmer from Shenzhen
 
